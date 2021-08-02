@@ -1,3 +1,2 @@
 # Aboutme-Gussing-Game-
-# LAB4
-### function was added
+# Lab4 function added
